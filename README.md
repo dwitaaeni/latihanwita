@@ -2,7 +2,7 @@
 ## TUTORIAL GITHUB
 
 <p align="center>
-[we bare bears](https://user-images.githubusercontent.com/92616861/137625953-939c4be3-d8d3-4a4e-af4a-3fa9fbb3bc55.gif)
+<img src=[we bare bears](https://user-images.githubusercontent.com/92616861/137625953-939c4be3-d8d3-4a4e-af4a-3fa9fbb3bc55.gif)
 </p>
 
           
